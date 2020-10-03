@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.15.15.47:9980/mithuntechnologies/repository/wallmart-releases/</url>
+	      <url>http://35.154.212.65:8081/repository/release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.15.15.47:9980/mithuntechnologies/repository/wallmart-snapshots/</url>
+	      <url>http://35.154.212.65:8081/repository/praveen_nexus/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
